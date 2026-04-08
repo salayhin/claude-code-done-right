@@ -52,11 +52,6 @@ export default defineConfig({
       provider: 'local'
     },
 
-    editLink: {
-      pattern: 'https://github.com/salayhin/claude-code-done-right/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
-    },
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/salayhin/claude-code-done-right' }
     ],
