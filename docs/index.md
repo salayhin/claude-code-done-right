@@ -9,7 +9,7 @@ hero:
       link: /features/
     - theme: alt
       text: View on GitHub
-      link: https://github.com
+      link: https://github.com/salayhin/claude-code-done-right
 
 features:
   - icon: 📝
