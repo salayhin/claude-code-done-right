@@ -1,6 +1,8 @@
 # Claude Code, Done Right
 
-> A practical guide to the 12 Claude Code features that matter most for AI-native development.
+> A practical guide to the Claude Code features that matter most for AI-native development.
+
+🌐 **Live site:** [https://salayhin.github.io/claude-code-done-right/](https://salayhin.github.io/claude-code-done-right/)
 
 Built with [VitePress](https://vitepress.dev) · Hosted on GitHub Pages · By [@salayhin](https://github.com/salayhin)
 
@@ -22,6 +24,7 @@ Built with [VitePress](https://vitepress.dev) · Hosted on GitHub Pages · By [@
 | 10 | Compaction | Free up context space |
 | 11 | Slash Commands | Keyboard shortcuts |
 | 12 | Sub-agents | Parallel focused work |
+| 13 | Statusline | Monitor context, cost, and git at a glance |
 
 ---
 
@@ -43,7 +46,7 @@ cd claude-code-done-right
 npm install
 
 # Start dev server
-npm run docs:dev
+npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173)
@@ -51,7 +54,7 @@ Open [http://localhost:5173](http://localhost:5173)
 ### Build
 
 ```bash
-npm run docs:build
+npm run build
 ```
 
 Output goes to `docs/.vitepress/dist/`
@@ -59,7 +62,7 @@ Output goes to `docs/.vitepress/dist/`
 ### Preview production build
 
 ```bash
-npm run docs:preview
+npm run preview
 ```
 
 ---
