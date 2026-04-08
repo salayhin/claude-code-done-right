@@ -4,6 +4,8 @@ export default defineConfig({
   title: 'Claude Code, Done Right',
   description: "The 12 features that matter most for AI-native development",
 
+  base: '/claude-code-done-right/',
+
   appearance: 'force-dark',
 
   cleanUrls: true,
