@@ -1,0 +1,38 @@
+/* Dark + Amber theme for Claude Code Features */
+:root {
+  --cc-bg: #0A0A0A;
+  --cc-surface: #141414;
+  --cc-code-bg: #060606;
+  --cc-border: #1E1E1E;
+  --cc-border2: #2A2A2A;
+  --cc-amber: #D97706;
+  --cc-amber-lo: #78350F;
+  --cc-text: #E2E2E2;
+  --cc-muted: #ABABAB;
+  --cc-dim: #777777;
+  --cc-green: #4ADE80;
+  --cc-red: #F87171;
+  --cc-blue: #93C5FD;
+}
+
+:root,
+.dark {
+  --vp-c-bg: var(--cc-bg);
+  --vp-c-bg-alt: var(--cc-surface);
+  --vp-c-bg-soft: #111111;
+  --vp-c-bg-mute: var(--cc-surface);
+  --vp-c-brand-1: var(--cc-amber);
+  --vp-c-brand-2: #B45309;
+  --vp-c-brand-3: #F59E0B;
+  --vp-c-brand-soft: rgba(217, 119, 6, 0.10);
+  --vp-c-text-1: var(--cc-text);
+  --vp-c-text-2: var(--cc-muted);
+  --vp-c-text-3: var(--cc-dim);
+  --vp-c-divider: var(--cc-border);
+  --vp-c-border: var(--cc-border2);
+}
+
+html { color-scheme: dark; }
+
+/* Diagram styling */
+svg { max-width: 100%; height: auto; }
