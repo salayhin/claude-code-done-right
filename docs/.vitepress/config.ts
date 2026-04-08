@@ -43,6 +43,7 @@ export default defineConfig({
           { text: 'Compaction', link: '/features/10-compaction' },
           { text: 'Slash Commands', link: '/features/11-slash-commands' },
           { text: 'Sub-agents', link: '/features/12-sub-agents' },
+          { text: 'Statusline', link: '/features/13-statusline' },
           ]
         },
       ]

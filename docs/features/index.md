@@ -1,8 +1,8 @@
 ---
-title: All 12 Features
+title: All Features
 ---
 
-# Claude Code — Top 12 Features
+# Claude Code Features
 
 The essential features for AI-native development, based on the official Claude Code video.
 
@@ -22,5 +22,6 @@ The essential features for AI-native development, based on the official Claude C
 | 10 | [Compaction](/features/10-compaction) | Compress conversation history to free up context space |
 | 11 | [Slash Commands](/features/11-slash-commands) | Keyboard shortcuts for common workflows |
 | 12 | [Sub-agents](/features/12-sub-agents) | Spawn separate sessions for focused, parallel work |
+| 13 | [Statusline](/features/13-statusline) | Monitor context, cost, and git status at a glance |
 
 Start with [CLAUDE.md](/features/1-claude) — it's foundational. Then explore the others as you need them.

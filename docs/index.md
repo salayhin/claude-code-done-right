@@ -60,4 +60,8 @@ features:
     title: Sub-agents
     details: Parallel focused work
     link: /features/12-sub-agents
+  - icon: 📊
+    title: Statusline
+    details: Monitor context, cost, and git at a glance
+    link: /features/13-statusline
 ---
