@@ -1,1 +1,25 @@
 node_modules/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+dist/
+.cache/
+
+# VitePress
+docs/.vitepress/cache
+docs/.vitepress/dist
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
